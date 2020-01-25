@@ -1,10 +1,10 @@
 package com.epicgames.ue4;
 
-import com.YourCompany.Rolling.OBBDownloaderService;
-import com.YourCompany.Rolling.DownloaderActivity;
+import com.khmakegames.Rolling.OBBDownloaderService;
+import com.khmakegames.Rolling.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.YourCompany.Rolling.OBBData;
+import com.khmakegames.Rolling.OBBData;
 
 
 public class DownloadShim
